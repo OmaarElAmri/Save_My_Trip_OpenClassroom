@@ -1,1 +1,1 @@
-SaveMyTrip (OpenCLassroom Course)
+SaveMyTrip (OpenClassroom Course)
